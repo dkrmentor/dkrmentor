@@ -36,8 +36,8 @@
 
 ![Dhara Kumari Rajput's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrmentor&show_icons=true&theme=radical)
 
-<!-- ![Dhara Kumari Rajput's GitHub trophies](https://github-profile-trophy.vercel.app/?username=dkrmentor&theme=onedark)
- -->
+![Dhara Kumari Rajput's GitHub trophies](https://github-profile-trophy.vercel.app/?username=dkrmentor&theme=onedark)
+
 
 ## 🏆 Achievements/Tasks
 - Successfully debugged and developed websites from scratch
