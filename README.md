@@ -40,7 +40,6 @@
 
 
 ## 🏆 Achievements/Tasks
-
 - Successfully debugged and developed websites from scratch
 - Produced captivating animations using JavaScript/jQuery to enhance website engagement
 - Significantly improved website performance and optimized user experience across various projects
