@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👩‍💻Software Development Engineer | 👩‍🏫 Technical Lead | 🚀 Full Stack Developer | 🌐 Web Developer | 🤝 Proficiency in API Integration |
+👩‍💻Software Development Engineer | 👩‍🏫 Technical Lead | 🚀 Full Stack Developer | 🌐 Web Developer | 🤝 Proficiency in API Integration 
 
 👩‍💻[email](mailto:dkrmentor@gmail.com) | 🤝[LinkedIn](https://www.linkedin.com/in/dkr-dev/) | 🌐[Portfolio](https://tinyurl.com/dkr-portfolio) 
 
